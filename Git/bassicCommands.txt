@@ -1,1 +1,0 @@
-git commit --amend => add the staged files to the last commit.
